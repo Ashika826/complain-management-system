@@ -1,0 +1,142 @@
+[
+  {
+    "id": "08150766-fdaa-422e-89e1-6de0ed15cc1e",
+    "userId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+    "userName": "Janam",
+    "title": "kam xaina halla besi vo",
+    "description": "kam navako kura garo",
+    "category": "service",
+    "status": "resolved",
+    "responses": [
+      {
+        "id": "fb24670d-2198-466f-a96d-1ccd782186fe",
+        "adminId": "a57078ba-8f7e-46cd-8756-a628dea0822c",
+        "adminName": "Admin User",
+        "message": "kasle garo name van ta aile hanxu ma",
+        "createdAt": "2025-05-14T16:21:47.943Z"
+      }
+    ],
+    "createdAt": "2025-05-14T16:20:48.397Z",
+    "updatedAt": "2025-05-14T16:31:37.125Z",
+    "rating": 5
+  },
+  {
+    "id": "6dd0dfd3-39ca-4950-a545-9b81ee7d8dd7",
+    "userId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+    "userName": "Janam",
+    "title": "Hora haina hola",
+    "description": "Hora halla po vayo",
+    "category": "general",
+    "status": "closed",
+    "responses": [
+      {
+        "id": "d7039fc9-f126-4784-876d-66ddf0921217",
+        "adminId": "b8181051-0046-47c8-8582-c9ad13d2f0ff",
+        "adminName": "Admin User",
+        "message": "kasle garo name van",
+        "createdAt": "2025-05-14T17:15:59.183Z"
+      },
+      {
+        "id": "86d17f1d-a2ab-4d41-8045-782339142ad7",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "horaaaa",
+        "createdAt": "2025-05-14T17:16:59.834Z"
+      },
+      {
+        "id": "c442a013-ef52-4632-9e7f-c9531799f222",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "ho ni bro\n",
+        "createdAt": "2025-05-14T17:28:28.250Z"
+      },
+      {
+        "id": "669adb5b-8102-4cc7-98f3-b022c2ee7ef6",
+        "adminId": "b8181051-0046-47c8-8582-c9ad13d2f0ff",
+        "adminName": "Admin User",
+        "message": "hahhaha testai ho bas",
+        "createdAt": "2025-05-14T17:28:42.863Z"
+      },
+      {
+        "id": "ab2d9318-846b-49c2-a42f-27ba07929b3f",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "ok\n",
+        "createdAt": "2025-05-14T17:29:34.895Z"
+      },
+      {
+        "id": "1dada49e-b240-4545-bc9e-a0c0ebcea391",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "ok",
+        "createdAt": "2025-05-14T17:29:38.440Z"
+      },
+      {
+        "id": "70bafcc0-1b2e-426f-90cb-db9ff1b967b1",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "ok",
+        "createdAt": "2025-05-14T17:29:41.322Z"
+      },
+      {
+        "id": "515527ea-86f5-4ee9-bce8-e646269d05ab",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "ok",
+        "createdAt": "2025-05-14T17:29:44.238Z"
+      },
+      {
+        "id": "f5bc964a-aa78-4125-8b0e-2a1321e4a974",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "hola",
+        "createdAt": "2025-05-14T17:32:23.165Z"
+      },
+      {
+        "id": "606c9ab0-3f96-4276-9fa0-772df2459647",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "fwe",
+        "createdAt": "2025-05-14T17:32:25.728Z"
+      },
+      {
+        "id": "d8e09458-e364-4b19-9082-0451ac78c2e4",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "wefew",
+        "createdAt": "2025-05-14T17:32:28.244Z"
+      },
+      {
+        "id": "d6103ea2-713f-41b2-a5d0-9258f1bc3fc1",
+        "adminId": "87d4ef46-b131-4561-955d-f5d03f296ff6",
+        "adminName": "Janam",
+        "message": "wefewffew",
+        "createdAt": "2025-05-14T17:32:30.844Z"
+      }
+    ],
+    "rating": 0,
+    "createdAt": "2025-05-14T17:14:51.674Z",
+    "updatedAt": "2025-05-14T17:38:37.828Z"
+  },
+  {
+    "id": "e66115da-7d59-4e00-a4f8-2caf704dda16",
+    "userId": "5331b85b-ed29-4e3b-b56c-27cec0538772",
+    "userName": "ashika khatiwada",
+    "title": "halla besi vo",
+    "description": "ya hall vo lat hannu paro",
+    "category": "technical",
+    "status": "resolved",
+    "responses": [
+      {
+        "id": "c915ddc8-a8de-4949-8ac5-b6d733a1baa2",
+        "adminId": "b8181051-0046-47c8-8582-c9ad13d2f0ff",
+        "adminName": "Admin User",
+        "message": "chup lagera bas uso vaye",
+        "createdAt": "2025-05-15T12:35:35.480Z"
+      }
+    ],
+    "rating": 4,
+    "createdAt": "2025-05-15T12:34:56.774Z",
+    "updatedAt": "2025-05-15T12:37:55.261Z"
+  }
+]
