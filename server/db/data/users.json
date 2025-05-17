@@ -1,29 +1,11 @@
 [
   {
-    "id": "87d4ef46-b131-4561-955d-f5d03f296ff6",
-    "username": "janam",
-    "password": "$2a$10$7xLw0IWGHMmgw.W63RGT0.xvPUM/KXLJyqvypvFEISqIKl1TsBhMm",
-    "name": "Janam",
-    "email": "janam@cloudhero.io",
-    "role": "customer",
-    "createdAt": "2025-05-14T16:20:30.391Z"
-  },
-  {
-    "id": "b8181051-0046-47c8-8582-c9ad13d2f0ff",
+    "id": "26071404-8971-4151-9fbf-2d5dd81e4d90",
     "username": "admin",
-    "password": "$2a$10$iX.9/.x1ejL3fNOsndWWRultuIdal.RmfYAUEH9gQeMVjSJC1vLQa",
+    "password": "$2b$10$mdMvNoNBGgqEMxRlmF2dtumwB5guJWE2XE6qjfPjZ47eGBHR5mWFy",
     "name": "Admin User",
     "email": "admin@example.com",
     "role": "admin",
-    "createdAt": "2025-05-14T16:34:07.303Z"
-  },
-  {
-    "id": "5331b85b-ed29-4e3b-b56c-27cec0538772",
-    "username": "ashika",
-    "password": "$2b$10$t1TA6GOkyFd4uAscYaRc.OD01CvTfZ20aGOa/hkdy8v6bhD7yKqXe",
-    "name": "ashika khatiwada",
-    "email": "ashika@gmail.com",
-    "role": "customer",
-    "createdAt": "2025-05-15T12:34:35.347Z"
+    "createdAt": "2025-05-17T16:14:01.909Z"
   }
 ]
