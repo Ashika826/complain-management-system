@@ -43,7 +43,7 @@ The project is divided into two main parts:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/complaint-management-system.git
+git clone https://github.com/Ashika826/complain-management-system.git
 cd complaint-management-system
 ```
 
